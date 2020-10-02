@@ -69,7 +69,12 @@ sudo apt install python
 ```
 sudo dpkg -r electron-ssr
 ```
+#####  小问题：
 
+- 更换系统为 Kubuntu 20.04.2 后，需要使用下面这个才能连通全局代理
+```bash
+$ export https_proxy="http://127.0.0.1:12333"
+```
 
 
 ####  2、使用 SSR 标准客户端
