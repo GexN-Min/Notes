@@ -29,4 +29,5 @@ $ sudo apt-get install libopencc2 fcitx-libs
 ---
 
 - [Ubuntu安装搜狗输入法](https://zhuanlan.zhihu.com/p/34270907)
+- [Ubuntu20.04LTS安装搜狗输入法](https://zhuanlan.zhihu.com/p/142206571)
 
