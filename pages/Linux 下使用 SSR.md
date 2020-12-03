@@ -76,20 +76,7 @@ sudo dpkg -r electron-ssr
 $ export https_proxy="http://127.0.0.1:12333"
 ```
 
-
-####  2、使用 SSR 标准客户端
-
-> 咳咳，找了两个 SSR 的克隆源都 404 了，所以先使用 electron-ssr 吧，
-等发现合适的源文件再继续写吧，其实是懒得去找了。
-
-~~说起来都已经在玩 Linux 了为什么还必须依赖图形化界面呢？~~
-
-~~玩一玩命令行和脚本多酷，有一股 hack 范:)~~
-
-~~所以，先安装 SSR~~
-
-
-#  参考资料
+#  参考
 ---
 -  [Debian 系列 —— Ubuntu18.04 为例](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/Ubuntu.md)
 -  [在 Ubuntu18.04 上使用 SSR](http://x-armin.com/%E5%9C%A8Ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8SSR/)
